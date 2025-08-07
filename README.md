@@ -1,5 +1,4 @@
-
-# 🔮 FeeFlow – Real-Time Bitcoin Transaction Fee Estimator
+# 🔮 FeeFlow – Real-Time Bitcoin Transaction Fee Prediction
 
 **FeeFlow** is a deep learning-powered web application that accurately predicts Bitcoin transaction fees based on live mempool data and transaction-specific features. It empowers users to make informed decisions, avoid overpayment, and minimize confirmation delays by estimating optimal fees tailored to current network conditions.
 
